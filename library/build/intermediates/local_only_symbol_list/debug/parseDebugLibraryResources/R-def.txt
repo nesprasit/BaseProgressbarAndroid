@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+attr? max
+attr? padding
+attr? progress
+attr? progressBackgroundColor
+attr? progressColor
+attr? progressStrokeColor
+attr? progressStrokeWidth
+attr? radius
+string app_name
+styleable BaseProgressbar progress max radius padding progressColor progressBackgroundColor progressStrokeWidth progressStrokeColor
