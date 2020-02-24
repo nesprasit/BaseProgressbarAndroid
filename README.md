@@ -1,2 +1,0 @@
-# BaseprogressbarAndroid
-Base Progressbar
