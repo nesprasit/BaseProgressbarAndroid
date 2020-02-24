@@ -5,9 +5,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:background="@android:color/white">
 
-    <com.nes.library.BaseProgressbar
+    <com.nesprasit.library.BaseProgressbar
+        android:id="@+id/progressbar"
         android:layout_width="0dp"
         android:layout_height="20dp"
         app:layout_constraintWidth_percent="0.9"
