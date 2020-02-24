@@ -5,6 +5,19 @@
 Base Progressbar is component for Android
 
 ## Installation
+Maven
+```
+<dependency>
+  <groupId>com.nesprasit</groupId>
+  <artifactId>baseprogressbar</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
+Gradle
+```
+implementation 'com.nesprasit:baseprogressbar:1.0.0'
+```
 
 ## How to use
 
