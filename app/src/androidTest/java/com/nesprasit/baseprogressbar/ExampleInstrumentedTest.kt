@@ -1,4 +1,4 @@
-package com.nes.baseprogressbar
+package com.nesprasit.baseprogressbar
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

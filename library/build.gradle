@@ -4,13 +4,13 @@ apply plugin: 'kotlin-android-extensions'
 
 ext {
     bintrayRepo = 'library'
-    bintrayName = 'BaseProgressbar'
+    bintrayName = 'com.nesprasit:baseprogressbar'
 
     publishedGroupId = 'com.nesprasit'
     artifact = 'baseprogressbar'
 
     libraryName = 'library'
-    libraryVersion = '1.0.0'
+    libraryVersion = '1.0.1'
     libraryDescription = 'Base Progressbar for Android'
 
     siteUrl = 'https://github.com/nesprasit/BaseprogressbarAndroid'

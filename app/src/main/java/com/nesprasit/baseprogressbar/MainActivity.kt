@@ -1,8 +1,7 @@
-package com.nes.baseprogressbar
+package com.nesprasit.baseprogressbar
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.os.Handler
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

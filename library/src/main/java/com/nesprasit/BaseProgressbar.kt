@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.nesprasit.library
+package com.nesprasit
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -26,6 +26,7 @@ import android.os.Parcelable
 import android.util.AttributeSet
 import android.util.DisplayMetrics
 import android.view.View
+import com.nesprasit.library.R
 
 /**
  * Created by Nesprasit (https://Maew.dev) on 15/1/2019 AD.

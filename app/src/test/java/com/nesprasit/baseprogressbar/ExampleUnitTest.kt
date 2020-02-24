@@ -1,4 +1,4 @@
-package com.nes.library
+package com.nesprasit.baseprogressbar
 
 import org.junit.Test
 
