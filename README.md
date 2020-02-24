@@ -10,18 +10,18 @@ Maven
 <dependency>
   <groupId>com.nesprasit</groupId>
   <artifactId>baseprogressbar</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <type>pom</type>
 </dependency>
 ```
 Gradle
 ```
-implementation 'com.nesprasit:baseprogressbar:1.0.0'
+implementation 'com.nesprasit:baseprogressbar:1.0.1'
 ```
 
 ## How to use
 ```
-<com.nesprasit.library.BaseProgressbar
+<com.nesprasit.BaseProgressbar
     android:id="@+id/progress"
     android:layout_width="0dp"
     android:layout_height="20dp"
