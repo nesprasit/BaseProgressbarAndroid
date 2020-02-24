@@ -20,6 +20,20 @@ implementation 'com.nesprasit:baseprogressbar:1.0.0'
 ```
 
 ## How to use
+```
+<com.nesprasit.library.BaseProgressbar
+    android:id="@+id/progress"
+    android:layout_width="0dp"
+    android:layout_height="20dp"
+    app:progress="50"
+    app:max="100"
+    app:padding="2dp"
+    app:radius="5dp"
+    app:progressBackgroundColor="#E0E0E
+    app:progressColor="#00C853"
+    app:progressStrokeColor="#00C853"
+    app:progressStrokeWidth="1dp" />
+```
 
 ## License
 ```
