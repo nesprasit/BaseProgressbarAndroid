@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.nes.library.BaseProgressbar
+        android:layout_width="0dp"
+        android:layout_height="20dp"
+        app:layout_constraintWidth_percent="0.9"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:progress="50"
+        app:max="100"
+        app:padding="2dp"
+        app:radius="5dp"
+        app:progressBackgroundColor="#E0E0E0"
+        app:progressColor="#00C853"
+        app:progressStrokeColor="#00C853"
+        app:progressStrokeWidth="1dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

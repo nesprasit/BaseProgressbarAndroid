@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseProgressbar">
+        <attr name="progress" format="float"/>
+        <attr name="max" format="float"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="padding" format="dimension"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="progressBackgroundColor" format="color"/>
+        <attr name="progressStrokeWidth" format="dimension"/>
+        <attr name="progressStrokeColor" format="color"/>
+    </declare-styleable>
+</resources>
