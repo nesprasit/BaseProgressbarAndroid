@@ -34,6 +34,7 @@ implementation 'com.nesprasit:baseprogressbar:1.0.0'
     app:progressStrokeColor="#00C853"
     app:progressStrokeWidth="1dp" />
 ```
+![](./images/progressbar.gif)
 
 ## License
 ```
